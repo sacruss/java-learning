@@ -13,6 +13,6 @@ public class Variables {
 
         firstName = "Krzysztof";
         System.out.println("Imię po zmianie " + firstName);
-        
+
     }
 }
