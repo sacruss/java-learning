@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BasicInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesSecondTask.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +37,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasicInfo">
+  <component name="RunManager" selected="Application.DataTypesSecondTask">
     <configuration name="BasicInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicInfo" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataTypesSecondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesSecondTask" />
       <module name="JavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyData" />
-      <module name="JavaLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Simple" />
       <module name="JavaLearning" />
@@ -79,18 +78,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.MyData" />
       <item itemvalue="Application.Simple" />
       <item itemvalue="Application.Example1" />
       <item itemvalue="Application.BasicInfo" />
+      <item itemvalue="Application.DataTypesSecondTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataTypesSecondTask" />
         <item itemvalue="Application.BasicInfo" />
         <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Simple" />
-        <item itemvalue="Application.MyData" />
       </list>
     </recent_temporary>
   </component>
