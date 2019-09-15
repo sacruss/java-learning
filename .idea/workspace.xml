@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Simple">
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example1" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="JavaLearning" />
@@ -66,12 +73,14 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.MyData" />
       <item itemvalue="Application.Simple" />
+      <item itemvalue="Application.Example1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Simple" />
         <item itemvalue="Application.MyData" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
