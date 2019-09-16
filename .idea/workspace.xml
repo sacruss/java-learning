@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/conversions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mathAndLogicalOperatorsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/losowanie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/conversions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/conversions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conversions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/mathAndLogicalOperatorsTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/mathAndLogicalOperatorsTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathAndLogicalOperatorsTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathAndLogicalOperatorsTask.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mathAndLogicalOperatorsTask">
+  <component name="RunManager" selected="Application.losowanie">
     <configuration name="Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Concat" />
       <module name="JavaLearning" />
@@ -65,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="losowanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="losowanie" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mathAndLogicalOperatorsTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mathAndLogicalOperatorsTask" />
       <module name="JavaLearning" />
@@ -72,27 +78,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="upAndDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="upAndDown" />
-      <module name="JavaLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.upAndDown" />
       <item itemvalue="Application.Concat" />
       <item itemvalue="Application.conversions" />
       <item itemvalue="Application.conversions2" />
       <item itemvalue="Application.mathAndLogicalOperatorsTask" />
+      <item itemvalue="Application.losowanie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.losowanie" />
         <item itemvalue="Application.mathAndLogicalOperatorsTask" />
         <item itemvalue="Application.conversions2" />
         <item itemvalue="Application.conversions" />
         <item itemvalue="Application.Concat" />
-        <item itemvalue="Application.upAndDown" />
       </list>
     </recent_temporary>
   </component>

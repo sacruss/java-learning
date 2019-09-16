@@ -4,7 +4,7 @@ public class mathAndLogicalOperatorsTask {
 
         Random rand = new Random ();
         int x = rand.nextInt (10); // losowa liczba z przedziału [0,9], 10 się nie wlicza
-        int y = new Random ().nextInt(10); // krótsza wersja
+        int y = new Random ().nextInt(100); // krótsza wersja
         System.out.println("x=" + x + ", y=" + y);
 
         // is x greater than y?
