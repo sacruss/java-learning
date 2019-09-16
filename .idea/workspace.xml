@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/compareOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/upAndDown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VariablesFirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariablesFirstTask.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,62 +45,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Library">
-    <configuration name="BasicInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicInfo" />
+  <component name="RunManager" selected="Application.conversions">
+    <configuration name="Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concat" />
       <module name="JavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypesSecondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesSecondTask" />
+    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogicalOperators" />
       <module name="JavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PACKAGE_NAME.Library" />
-      <module name="JavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PACKAGE_NAME.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables" />
+    <configuration name="compareOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compareOperator" />
       <module name="JavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesFirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesFirstTask" />
+    <configuration name="conversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conversions" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="upAndDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="upAndDown" />
       <module name="JavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicInfo" />
-      <item itemvalue="Application.DataTypesSecondTask" />
-      <item itemvalue="Application.Variables" />
-      <item itemvalue="Application.VariablesFirstTask" />
-      <item itemvalue="Application.Library" />
+      <item itemvalue="Application.compareOperator" />
+      <item itemvalue="Application.LogicalOperators" />
+      <item itemvalue="Application.upAndDown" />
+      <item itemvalue="Application.Concat" />
+      <item itemvalue="Application.conversions" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Library" />
-        <item itemvalue="Application.VariablesFirstTask" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.DataTypesSecondTask" />
-        <item itemvalue="Application.BasicInfo" />
+        <item itemvalue="Application.conversions" />
+        <item itemvalue="Application.Concat" />
+        <item itemvalue="Application.upAndDown" />
+        <item itemvalue="Application.LogicalOperators" />
+        <item itemvalue="Application.compareOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
