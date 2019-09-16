@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/losowanie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarShop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarShop/CarShop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/mathAndLogicalOperatorsTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/mathAndLogicalOperatorsTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mathAndLogicalOperatorsTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathAndLogicalOperatorsTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/losowanie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/losowanie.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +43,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.losowanie">
-    <configuration name="Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Concat" />
+  <component name="RunManager" selected="Application.CarShop">
+    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarShop.CarShop" />
       <module name="JavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,19 +80,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Concat" />
       <item itemvalue="Application.conversions" />
       <item itemvalue="Application.conversions2" />
       <item itemvalue="Application.mathAndLogicalOperatorsTask" />
       <item itemvalue="Application.losowanie" />
+      <item itemvalue="Application.CarShop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CarShop" />
         <item itemvalue="Application.losowanie" />
         <item itemvalue="Application.mathAndLogicalOperatorsTask" />
         <item itemvalue="Application.conversions2" />
         <item itemvalue="Application.conversions" />
-        <item itemvalue="Application.Concat" />
       </list>
     </recent_temporary>
   </component>
