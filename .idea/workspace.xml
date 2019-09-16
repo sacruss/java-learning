@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/compareOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/conversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/upAndDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conversions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mathAndLogicalOperatorsTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/conversions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/conversions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conversions.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.conversions">
+  <component name="RunManager" selected="Application.mathAndLogicalOperatorsTask">
     <configuration name="Concat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Concat" />
       <module name="JavaLearning" />
@@ -53,22 +51,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LogicalOperators" />
-      <module name="JavaLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="compareOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compareOperator" />
-      <module name="JavaLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="conversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="conversions" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conversions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conversions2" />
+      <module name="JavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mathAndLogicalOperatorsTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mathAndLogicalOperatorsTask" />
       <module name="JavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,19 +80,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.compareOperator" />
-      <item itemvalue="Application.LogicalOperators" />
       <item itemvalue="Application.upAndDown" />
       <item itemvalue="Application.Concat" />
       <item itemvalue="Application.conversions" />
+      <item itemvalue="Application.conversions2" />
+      <item itemvalue="Application.mathAndLogicalOperatorsTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mathAndLogicalOperatorsTask" />
+        <item itemvalue="Application.conversions2" />
         <item itemvalue="Application.conversions" />
         <item itemvalue="Application.Concat" />
         <item itemvalue="Application.upAndDown" />
-        <item itemvalue="Application.LogicalOperators" />
-        <item itemvalue="Application.compareOperator" />
       </list>
     </recent_temporary>
   </component>
