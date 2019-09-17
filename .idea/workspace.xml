@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AggregationAndComposition/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AggregationAndComposition/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AggregationAndComposition/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AggregationAndComposition/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AggregationAndComposition/Address.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AggregationAndComposition/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AggregationAndComposition/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AggregationAndComposition/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AggregationAndComposition/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AggregationAndComposition/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AggregationAndComposition/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AggregationAndComposition/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AggregationAndComposition/Person.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
