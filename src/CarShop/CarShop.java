@@ -39,6 +39,8 @@ public class CarShop {
         System.out.println(car2.model);
         System.out.println(car2.doors);
 
+        boolean isCar = car1 instanceof  Car;
+        System.out.println(isCar);
        /* System.out.println(brand + ", " + model + ", kolor: " + color + ", felgi: "
                 + wheelsColor + ", kolor opon: " + tiresColor + ", liczba drzwi: " + doors);
     */
