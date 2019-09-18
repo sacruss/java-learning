@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Methods/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/ComputerStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/ComputerUpgrade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AggregationAndComposition/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AggregationAndComposition/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/Methods/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/Methods/Calc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/Methods/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/Methods/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/Methods/ComputerStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/Methods/ComputerStore.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AggregationAndComposition/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AggregationAndComposition/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/ComputerStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/ComputerStore.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">

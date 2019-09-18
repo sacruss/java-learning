@@ -2,11 +2,10 @@ package Methods;
 
 public class Calc {
     double add (double a, double b){
-   double result = a + b;
-   return result;
+   return a+b;
     }
-    void addAndPrint (int a, int b){
-        int result = a+b;
+    void addAndPrint (int x, int y){
+        double result = add(x , y);
         System.out.println(result);
     }
 }

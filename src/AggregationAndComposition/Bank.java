@@ -52,8 +52,6 @@ public class Bank {
     }
 
 
-
-
 //        Credit credit1 = new Credit();
 //        credit1.borrower = person1;
 //        credit1.cashBorrowed = 5000;
@@ -66,4 +64,4 @@ public class Bank {
 //        System.out.println("posiada konto bankowe z kwotą: " + account1.balance);
 //        System.out.println("oraz kredyt na kwotę " + credit1.cashBorrowed);
 
-    }
+}
