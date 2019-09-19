@@ -8,13 +8,17 @@ public class Book {
     String publisher;
     String isbn;
 
-    Book(String bookTitle, String bookAuthor, int bookReleaseDate, int bookPages, String bookPublisher, String bookIsbn) {
-        title = bookTitle;
-        author = bookAuthor;
-        releaseDate = bookReleaseDate;
-        pages = bookPages;
-        publisher = bookPublisher;
-        isbn = bookIsbn;
+    Book(String title, String author, int releaseDate, int pages, String publisher, String isbn) {
+        this(title, author, releaseDate, pages, publisher);
+        this.isbn = isbn;
+    }
+
+    Book(String title, String author, int releaseDate, int pages, String publisher) {
+        this.title = title;
+        this.author = author;
+        this.releaseDate = releaseDate;
+        this.pages = pages;
+        this.publisher = publisher;
     }
 
     void printInfo() {
@@ -22,4 +26,6 @@ public class Book {
                 releaseDate + '\n' + "Ilość stron: " + pages + '\n' + "Wydawnictwo: " + publisher + '\n' + "Numer ISBN: "
                 + isbn + '\n');
     }
+
 }
+
