@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Overload/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overload/CarShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overload/NumberPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overload/PrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorOverload/CalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatorOverload/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overload/CarShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overload/CarShop.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CarShop">
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator.Calculate" />
+  <component name="RunManager" selected="Application.CalcTest">
+    <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorOverload.CalcTest" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Calculator.*" />
+          <option name="PATTERN" value="CalculatorOverload.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,19 +111,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Calculate" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Library" />
       <item itemvalue="Application.CarShop" />
       <item itemvalue="Application.PrinterTest" />
+      <item itemvalue="Application.CalcTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalcTest" />
         <item itemvalue="Application.CarShop" />
         <item itemvalue="Application.PrinterTest" />
         <item itemvalue="Application.Library" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Calculate" />
       </list>
     </recent_temporary>
   </component>

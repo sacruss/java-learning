@@ -9,6 +9,6 @@ public class CarShop {
 
         car2.color = "Czerwony";
         System.out.println(car2.color);
-        
+
     }
 }
