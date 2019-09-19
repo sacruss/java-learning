@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Calculator/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnitSwap/MetricUnits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnitSwap/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnitSwap/TimeUnits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,20 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculate">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AggregationAndComposition.Bank" />
-      <module name="JavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AggregationAndComposition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.CalcTest" />
       <module name="JavaLearning" />
@@ -109,20 +97,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnitSwap.Test" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UnitSwap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Bank" />
       <item itemvalue="Application.CalcTest" />
       <item itemvalue="Application.ComputerStore" />
       <item itemvalue="Application.ComputerStore (1)" />
       <item itemvalue="Application.Calculate" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Calculate" />
         <item itemvalue="Application.ComputerStore (1)" />
         <item itemvalue="Application.ComputerStore" />
         <item itemvalue="Application.CalcTest" />
-        <item itemvalue="Application.Bank" />
       </list>
     </recent_temporary>
   </component>
