@@ -20,4 +20,7 @@ public class pointcontroller {
         p.setY(p.getY() - 1);
     }
 
+    public void changeObject(Point p) {
+        p = new Point (-100, -100);
+    }
 }

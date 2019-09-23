@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AccessSpecifiers/control/pointcontroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessSpecifiers/point/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessSpecifiers/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control/HelloName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Control/sterowanie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AccessSpecifiers/control/pointcontroller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AccessSpecifiers/control/pointcontroller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AccessSpecifiers/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AccessSpecifiers/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccessSpecifiers/control/pointcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessSpecifiers/control/pointcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AccessSpecifiers/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AccessSpecifiers/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLibrary/app/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/app/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLibrary/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/model/Book.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,25 +53,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Test">
-    <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorOverload.CalcTest" />
+    <configuration name="HelloName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Control.HelloName" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CalculatorOverload.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Overload.logic.CarShop" />
-      <module name="JavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Overload.data.*" />
+          <option name="PATTERN" value="Control.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,24 +67,11 @@
       </method>
     </configuration>
     <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppLibrary.Library" />
+      <option name="MAIN_CLASS_NAME" value="AppLibrary.app.Library" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AppLibrary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MathCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stosISterta.MathCalc" />
-      <module name="JavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stosISterta.*" />
+          <option name="PATTERN" value="AppLibrary.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,20 +92,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sterowanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Control.sterowanie" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trening.test.test" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trening.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Library" />
-      <item itemvalue="Application.CarShop" />
-      <item itemvalue="Application.CalcTest" />
-      <item itemvalue="Application.MathCalc" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.sterowanie" />
+      <item itemvalue="Application.HelloName" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.CarShop" />
-        <item itemvalue="Application.MathCalc" />
+        <item itemvalue="Application.HelloName" />
+        <item itemvalue="Application.sterowanie" />
         <item itemvalue="Application.Library" />
-        <item itemvalue="Application.CalcTest" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
