@@ -1,5 +1,7 @@
 package AppLibrary.model;
 
+import java.sql.SQLOutput;
+
 public class Book {
     private String title;
     private String author;
@@ -22,9 +24,11 @@ public class Book {
     }
 
     public void printInfo() {
-        System.out.println("Tytuł książki: " + title + '\n' + "Autor książki: " + author + '\n' + "Rok wydania: " +
-                releaseDate + '\n' + "Ilość stron: " + pages + '\n' + "Wydawnictwo: " + publisher + '\n' + "Numer ISBN: "
-                + isbn + '\n');
+        String info = title + "; " + author + "; " + releaseDate + "; " + pages + "; " + publisher;
+        if (isbn != null){
+            info = info + "; " + isbn;
+        }
+        System.out.println(info);
     }
 
     public String getTitle() {
