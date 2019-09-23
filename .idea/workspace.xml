@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/AppLibrary/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/enc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/printInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/app/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/app/Library.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Library">
+  <component name="RunManager" selected="Application.enc">
     <configuration name="HelloName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Control.HelloName" />
       <module name="JavaLearning" />
@@ -81,6 +86,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="enc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.enc" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sterowanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Control.sterowanie" />
       <module name="JavaLearning" />
@@ -94,33 +112,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trening.test.test" />
-      <module name="JavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trening.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Library" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.sterowanie" />
       <item itemvalue="Application.HelloName" />
+      <item itemvalue="Application.enc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.enc" />
         <item itemvalue="Application.Library" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.HelloName" />
         <item itemvalue="Application.sterowanie" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
