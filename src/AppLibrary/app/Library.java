@@ -5,21 +5,25 @@ import AppLibrary.model.Book;
 
 public class Library {
     public static void main(String[] args) {
-        final String appName = "Biblioteka v0.6";
-        Book book1 = new Book("W pustyni i w puszczy", "Henryk Sienkiewicz", 2010,
-                296, "Greg", "9788373271890");
+        final String appName = "Biblioteka v0.7";
 
-        Book book2 = new Book("Java. Efektywne programowanie. Wydanie II", "Joshua Bloch",
-                2010, 352, "Helion", "4412341234213");
+        Book[] books = new Book[1000];
+        books[0] = new Book("W pustyni i w puszczy", "Henryk SIenkiewicz", 2010, 296,
+                "Greg", "9623424324");
 
-        Book book3 = new Book("SCJP Sun Certified Programmer for Java 6 Study Guide",
-                "Bert Bates, Katherine Sierra", 2008, 851,
-                "McGraw-Hill Osborne Media");
+        books[1] = new Book("Java. Efektywne programowanie. Wydanie II", "Joshua Bloch", 2010,
+                352, "Helion", "413123123" );
+
+        books[2] = new Book("SCJP Sun Certified Programmer for Java 6 Study Guide", "Bert Bates," +
+                " Katherine Sierra",
+                2008, 851, "McGraw-Hill Osborne Media");
+
 
         System.out.println(appName + '\n');
         System.out.println("Książki dostepne w bilbiotece");
-        book1.printInfo();
-        book2.printInfo();
-        book3.printInfo();
+        books[0].printInfo();
+        books[1].printInfo();
+        books[2].printInfo();
+        System.out.println("System może przechowywać do " + books.length + " książek");
     }
 }
