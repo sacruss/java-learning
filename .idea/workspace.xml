@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/enc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/printInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tables/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tables/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tables/tables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/app/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/app/Library.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.enc">
-    <configuration name="HelloName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Control.HelloName" />
+  <component name="RunManager" selected="Application.Company">
+    <configuration name="Company" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tables.Company" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Control.*" />
+          <option name="PATTERN" value="Tables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sterowanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Control.sterowanie" />
+    <configuration name="tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tables.tables" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Control.*" />
+          <option name="PATTERN" value="Tables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,17 +113,17 @@
     <list>
       <item itemvalue="Application.Library" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.sterowanie" />
-      <item itemvalue="Application.HelloName" />
       <item itemvalue="Application.enc" />
+      <item itemvalue="Application.tables" />
+      <item itemvalue="Application.Company" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Company" />
+        <item itemvalue="Application.tables" />
         <item itemvalue="Application.enc" />
         <item itemvalue="Application.Library" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HelloName" />
-        <item itemvalue="Application.sterowanie" />
       </list>
     </recent_temporary>
   </component>
