@@ -8,6 +8,7 @@ public class Library {
         final String appName = "Biblioteka v0.7";
 
         Book[] books = new Book[1000];
+
         books[0] = new Book("W pustyni i w puszczy", "Henryk SIenkiewicz", 2010, 296,
                 "Greg", "9623424324");
 
