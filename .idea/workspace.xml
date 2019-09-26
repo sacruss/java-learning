@@ -2,20 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AppLibrary/io/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/dowhile/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/dowhile/NumPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/ForEachProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/NumPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/NumberChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/NumberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Tasks/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Tasks/task2/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Tasks/task2/HospitalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Tasks/task2/Patient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/app/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/app/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/scanner/Calculator/app.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/scanner/Calculator/app.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppLibrary/app/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/app/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Calculator/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/Calculator/app.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/Temp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +52,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumbPrinter">
-    <configuration name="ForEachProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.For.ForEachProblem" />
+  <component name="RunManager" selected="Application.HospitalApp">
+    <configuration name="GuessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.dowhile.GuessGame" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.For.*" />
+          <option name="PATTERN" value="Loops.dowhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.dowhile.GuessGame" />
+    <configuration name="HospitalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Tasks.task2.HospitalApp" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.dowhile.*" />
+          <option name="PATTERN" value="Loops.Tasks.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.For.NumPrinter" />
-      <module name="JavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.For.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NumbPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops.dowhile.NumbPrinter" />
       <module name="JavaLearning" />
@@ -127,20 +105,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Tasks.task1" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ForEachProblem" />
-      <item itemvalue="Application.NumPrinter" />
       <item itemvalue="Application.GuessGame" />
       <item itemvalue="Application.NumPrinter (1)" />
       <item itemvalue="Application.NumbPrinter" />
+      <item itemvalue="Application.task1" />
+      <item itemvalue="Application.HospitalApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HospitalApp" />
+        <item itemvalue="Application.task1" />
         <item itemvalue="Application.NumbPrinter" />
         <item itemvalue="Application.NumPrinter (1)" />
         <item itemvalue="Application.GuessGame" />
-        <item itemvalue="Application.NumPrinter" />
-        <item itemvalue="Application.ForEachProblem" />
       </list>
     </recent_temporary>
   </component>
