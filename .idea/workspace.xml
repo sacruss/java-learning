@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scanner/Calculator/app.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/Calculator/model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/twonumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AppLibrary/io/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/dowhile/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/dowhile/NumPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/ForEachProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/NumPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/NumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/foreach/NumberPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/app/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/AppLibrary/app/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/scanner/Calculator/app.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/scanner/Calculator/app.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLibrary/app/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/app/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scanner/Calculator/app.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/Calculator/app.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scanner/Temp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/Temp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +61,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Temp">
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator.Calculate" />
+  <component name="RunManager" selected="Application.NumbPrinter">
+    <configuration name="ForEachProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.For.ForEachProblem" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Calculator.*" />
+          <option name="PATTERN" value="Loops.For.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.Temp" />
+    <configuration name="GuessGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.dowhile.GuessGame" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="Loops.dowhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.Calculator.app" />
+    <configuration name="NumPrinter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.dowhile.NumPrinter" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.Calculator.*" />
+          <option name="PATTERN" value="Loops.dowhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.scanner" />
+    <configuration name="NumPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.For.NumPrinter" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="Loops.For.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twonumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.twonumbers" />
+    <configuration name="NumbPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.dowhile.NumbPrinter" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="Loops.dowhile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.scanner" />
-      <item itemvalue="Application.Temp" />
-      <item itemvalue="Application.app" />
-      <item itemvalue="Application.Calculate" />
-      <item itemvalue="Application.twonumbers" />
+      <item itemvalue="Application.ForEachProblem" />
+      <item itemvalue="Application.NumPrinter" />
+      <item itemvalue="Application.GuessGame" />
+      <item itemvalue="Application.NumPrinter (1)" />
+      <item itemvalue="Application.NumbPrinter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.twonumbers" />
-        <item itemvalue="Application.Calculate" />
-        <item itemvalue="Application.app" />
-        <item itemvalue="Application.scanner" />
+        <item itemvalue="Application.NumbPrinter" />
+        <item itemvalue="Application.NumPrinter (1)" />
+        <item itemvalue="Application.GuessGame" />
+        <item itemvalue="Application.NumPrinter" />
+        <item itemvalue="Application.ForEachProblem" />
       </list>
     </recent_temporary>
   </component>

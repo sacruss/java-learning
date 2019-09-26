@@ -7,7 +7,7 @@ public class Temp {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         //pobierz znak nowej linii \n
-        sc.nextLine();
+       sc.nextLine();
         //teraz możesz pobrać od użytkownika napis
         String word = sc.nextLine();
         //obie wartości zostają wyświetlone

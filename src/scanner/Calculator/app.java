@@ -8,9 +8,12 @@ public class app {
         Scanner input = new Scanner(System.in);
         input.useLocale(Locale.US);
 
+        System.out.println("Podaj pierwszą liczbę: ");
         double a = input.nextDouble();
         input.nextLine();
+        System.out.println("Co chcesz wykonać (+, -, /, *) : ");
         String operator = input.nextLine();
+        System.out.println("Podaj drugą liczbe: ");
         double b = input.nextDouble();
 
         model calc = new model();
