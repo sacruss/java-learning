@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe570fd6-1d4e-49d8-9d18-2a2d500e3d94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AppLibrary/app/LibraryApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AppLibrary/app/LibraryControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STATIC/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STATIC/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STATIC/MyCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STATIC/PrintNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STATIC/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STATIC/task/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STATIC/task/University.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearning/Loops/Tasks/task2/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearning/Loops/Tasks/task2/Patient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppLibrary/app/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/model/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppLibrary/io/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/io/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLibrary/app/LibraryApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/app/LibraryApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLibrary/app/LibraryControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/app/LibraryControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppLibrary/model/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppLibrary/model/Library.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="copyright" />
@@ -53,26 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LibraryApp">
-    <configuration name="HospitalApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Tasks.wo.HospitalApp" />
+  <component name="RunManager" selected="Application.University">
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STATIC.CalendarTest" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.Tasks.wo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HospitalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Tasks.task2.HospitalApp" />
-      <module name="JavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.Tasks.task2.*" />
+          <option name="PATTERN" value="STATIC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumbPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.dowhile.NumbPrinter" />
+    <configuration name="PrintNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STATIC.PrintNumbers" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.dowhile.*" />
+          <option name="PATTERN" value="STATIC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Tasks.task1" />
+    <configuration name="University" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STATIC.task.University" />
       <module name="JavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.Tasks.*" />
+          <option name="PATTERN" value="STATIC.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="World" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="STATIC.World" />
+      <module name="JavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="STATIC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,19 +125,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumbPrinter" />
-      <item itemvalue="Application.task1" />
-      <item itemvalue="Application.HospitalApp" />
-      <item itemvalue="Application.HospitalApp (1)" />
       <item itemvalue="Application.LibraryApp" />
+      <item itemvalue="Application.CalendarTest" />
+      <item itemvalue="Application.World" />
+      <item itemvalue="Application.PrintNumbers" />
+      <item itemvalue="Application.University" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.University" />
+        <item itemvalue="Application.PrintNumbers" />
+        <item itemvalue="Application.World" />
+        <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.LibraryApp" />
-        <item itemvalue="Application.HospitalApp (1)" />
-        <item itemvalue="Application.HospitalApp" />
-        <item itemvalue="Application.task1" />
-        <item itemvalue="Application.NumbPrinter" />
       </list>
     </recent_temporary>
   </component>
